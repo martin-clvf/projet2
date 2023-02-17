@@ -3,7 +3,7 @@ class class2 {
 	fct 1{
 		inst1;
 		inst2;
-		inst3;
+		/*inst3; release*/
 	}
 
 	fct 2{

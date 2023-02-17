@@ -3,6 +3,7 @@ class class1 {
 	fct 1{
 		inst1;
 		inst2;
+		inst3;//release
 	}
 
 	fct2 {
@@ -21,4 +22,11 @@ class class1 {
 		inst1;
 		inst2;
 	}
+
+	//release
+	fct3 {
+		inst1;
+		inst2;
+		inst3;
+	}	
 }
