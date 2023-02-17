@@ -1,0 +1,4 @@
+Classe1TEST.txt
+Classe2TEST.txt
+Classe3TEST.txt
+*.class
