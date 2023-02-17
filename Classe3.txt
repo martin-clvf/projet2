@@ -8,7 +8,7 @@ class class3 {
 
 	fct2 {
 		inst1;
-		inst2;
+		inst2...;//test
 		inst3;
 	}
 
