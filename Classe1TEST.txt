@@ -29,5 +29,10 @@ class class1TEST {
 		inst1;
 		inst2;
 		inst3;
-	}	
+	}
+	// supprFTS1
+	fct11TEST{//TEST2
+		inst1;
+		inst2;
+	}
 }
