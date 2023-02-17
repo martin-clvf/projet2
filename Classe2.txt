@@ -6,5 +6,10 @@ class class2 {
 		inst3;
 	}
 
+	fct 2{
+		inst1;
+		inst2;
+		inst3;
+	}
 
 }
