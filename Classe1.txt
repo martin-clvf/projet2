@@ -1,11 +1,10 @@
 class class1 {
+	/**
+	* comment
+	*/
+
 	public Class1() {}
-	fct 1{
-		inst1...;//test
-		inst2...;//test
-		inst3...;//release //test
-		inst4;//release
-	}
+	//suppr fct1
 
 	fct2 {
 		inst1...;//test
@@ -31,4 +30,5 @@ class class1 {
 		inst2;
 		inst3;
 	}	
+	//supp fct5
 }

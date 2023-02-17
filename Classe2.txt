@@ -1,4 +1,8 @@
 class class2 {
+	/**
+	* comment
+	*/
+
 	public Class2() {}
 	fct 1{
 		inst1;
