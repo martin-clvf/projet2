@@ -31,4 +31,8 @@ class class1 {
 		inst3;
 	}	
 	//supp fct5
+	fct 11{// release2
+		inst1;
+		inst2;
+	}
 }
