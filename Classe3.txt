@@ -1,5 +1,5 @@
-class class1 {
-	public Class1() {}
+class class3 {
+	public Class3() {}
 	fct 1{
 		inst1;
 		inst2;
@@ -17,8 +17,4 @@ class class1 {
 		inst3;
 	}
 
-	fct 4{
-		inst1;
-		inst2;
-	}
 }
