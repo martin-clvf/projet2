@@ -1,0 +1,10 @@
+class class2 {
+	public Class2() {}
+	fct 1{
+		inst1;
+		inst2;
+		inst3;
+	}
+
+
+}

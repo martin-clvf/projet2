@@ -1,0 +1,14 @@
+class class1 {
+	public Class1() {}
+	fct 1{
+		inst1;
+		inst2;
+	}
+
+	fct2 {
+		inst1;
+		inst2;
+		inst3;
+	}
+
+}
