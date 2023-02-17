@@ -1,5 +1,7 @@
-build + test
+build + test tt
 <scope>test</scope>
 <plugin>...</plugin>
 <version>...</version>
+<lib>...</lib>
+
 
