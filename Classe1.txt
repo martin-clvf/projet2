@@ -1,6 +1,6 @@
 class class1 {
 	/**
-	* comment
+	* comment relase 2
 	*/
 
 	public Class1() {}
@@ -9,7 +9,9 @@ class class1 {
 	fct2 {
 		inst1...;//test
 		inst2;
-		//inst3; master
+		inst4;
+		inst3;<**** //release2
+		inst4;//release
 	}
 
 	fct3 {
@@ -31,4 +33,8 @@ class class1 {
 		inst3;
 	}	
 	//supp fct5
+	fct 11{// release2
+		inst1;
+		inst2;
+	}
 }
